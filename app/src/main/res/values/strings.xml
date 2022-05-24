@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThomasMitchellWeatherApp</string>
+    <string name="enter_your_city">Enter your city</string>
+    <string name="lookup_weather">Lookup weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
