@@ -25,6 +25,11 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
+        /**
+         * Both of the below snippets of code are causing problems.
+         * I don't know which one is the right approach anymore
+         */
+
 //        _binding = ActivityMainBinding.inflate(layoutInflater)
 //        setContentView(binding.root)
 //
